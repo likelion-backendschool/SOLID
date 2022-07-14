@@ -18,7 +18,7 @@
 ## [ 스터디 원 ]
 > - [Doxxx](https://github.com/doxxx93)
 > - [rlarkdals579](https://github.com/rlarkdals579)
-> - [Sophoca](https://github.com/Sophoca)
+> - [Sophoca/중도하차T_T](https://github.com/Sophoca)
 > - [woowang789](https://github.com/woowang789)
 
 ## [ 공부 내용 ]
