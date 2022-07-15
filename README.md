@@ -13,14 +13,14 @@
 (2022/07/07) : chapter 1 + OT -> 발표자 없음
 
 2주차 : <br>
-(2022/07/14) : chapter 1 마무리
+(2022/07/14) : chapter 1 마무리 -> doxxx
 
 ## [ 스터디 원 ]
-> - [Doxxx](https://github.com/doxxx93)
+> - [doxxx](https://github.com/doxxx93)
 > - [rlarkdals579](https://github.com/rlarkdals579)
 > - [Sophoca/중도하차T_T](https://github.com/Sophoca)
 > - [woowang789](https://github.com/woowang789)
 
 ## [ 공부 내용 ]
 > - [Chapter 1 객체, 설계](https://github.com/likelion-backendschool/SOLID/issues/1)
-
+> - [Chapter 2 객체지향 프로그래밍](https://github.com/likelion-backendschool/SOLID/issues/2)
